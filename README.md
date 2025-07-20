@@ -14,6 +14,6 @@ Exploratory Data Analysis on an HR dataset to understand patterns of employee at
 - No strong correlation between Job Satisfaction and Attrition (surprisingly!).
 
 ## Folder Structure
-- `EDA.ipynb` — Main notebook
+- `Employee_Attrition_eda.ipynb` — Main notebook
 - `dataset.csv` — Sample dataset
 
